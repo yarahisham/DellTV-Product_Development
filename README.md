@@ -15,7 +15,7 @@ Research and analysis, in Dell Company, Have shown that using laptops for entert
   -  Product Scenarios.
 
 <p align="center">
-<img src="https://github.com/yarahisham/DellTV_CaseStudy-Product_Development/blob/main/Images/Screen%20Shot%202021-04-27%20at%202.40.25%20AM.jpg" alt="alt text" width="700" height="200" >
+<img src="https://github.com/yarahisham/DellTV_CaseStudy-Product_Development/blob/main/Images/Screen%20Shot%202021-04-27%20at%202.40.25%20AM.jpg" alt="alt text" width="700" height="100" >
 </p>
 
 <p align="center">
