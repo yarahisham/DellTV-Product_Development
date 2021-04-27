@@ -3,11 +3,11 @@ Research and analysis, in Dell Company, Have shown that using laptops for entert
 
 ## Description
 - The product development includes:
--  Product Mission.
--  Product Vision.
--  Product Features.
--  PDLC.
--  Product Life Cylce Stages.
--  Product Scenarios.
+  -  Product Mission.
+  -  Product Vision.
+  -  Product Features.
+  -  PDLC.
+  -  Product Life Cylce Stages.
+  -  Product Scenarios.
 
 ## Knowledge Officer Rubric
